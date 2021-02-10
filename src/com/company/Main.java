@@ -18,7 +18,7 @@ public class Main {
             if(getString("change language ?").equalsIgnoreCase("y")) {
 
 
-                dialog = sprog.SkiftSprog(getString("da / eng / por / fre"));
+                dialog = sprog.SkiftSprog(getString("da / eng / por / fre / de"));
 
 
 
